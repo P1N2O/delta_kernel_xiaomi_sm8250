@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=REAL-KING KERNEL by ROHAIL(@Rohail33)--Telegram
+kernel.string=Delta Kernel by P1N2O
 do.devicecheck=1
 do.modules=0
 do.systemless=1
